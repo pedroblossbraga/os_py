@@ -62,5 +62,5 @@ def main(dir):
     except Exception as e:
      print(f" (failed) (arq {arq} ) com erro {e}")
 if __name__ == "__main__":
- main()
+ main(dir)
  
